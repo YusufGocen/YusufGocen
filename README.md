@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Göçen</h1>
 
-<img align="right" alt="Coding" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdkNjBsdW8zeWZpZTMzOHV4ZXQzcDFiNzZrOHlkODRnMzA0YjA0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdkNjBsdW8zeWZpZTMzOHV4ZXQzcDFiNzZrOHlkODRnMzA0YjA0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 

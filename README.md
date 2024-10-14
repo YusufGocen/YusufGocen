@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **C# And Asp.Net**
+- 🌱 I’m currently learning **Java Spring**
 
 - ⚡ Fun fact **I have a Dash 😉**
 

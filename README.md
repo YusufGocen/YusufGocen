@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007CF0,00DFD8,00F5D4,00C9B1,005F73,003845&height=300&section=header&text=Hi%20there!%20I'm%20Yusuf%20Göçen%20👋&fontSize=50&fontAlignY=35" width="100%"/>
 </div>
-
 ## 🚀 About Me
 - 🔭 I’m currently working on React.Js
 

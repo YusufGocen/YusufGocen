@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007CF0,00DFD8,00F5D4,00C9B1,005F73,003845&height=300&section=header&text=Hi%20there!%20I'm%20Yusuf%20Göçen%20👋&fontSize=50&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Hi%20there!%20I'm%20Yusuf%20Göçen%20👋&fontSize=50&fontAlignY=35" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+%26+Mobile+Application+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
 ## 🚀 About Me
 - 🔭 I’m currently working on React.Js

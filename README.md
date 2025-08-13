@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hi%20there!%20I'm%20Yusuf%20Göçen%20👋&fontSize=50&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,50:1E90FF,100:00008B&height=200&section=header&text=Hi%20there!%20I'm%20Yusuf%20Göçen%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
 </div>
 
 
@@ -67,13 +67,20 @@ I also develop cross-platform mobile applications using React Native for both iO
 
 
 
+
+
+
+
 <div align="center">
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
   </div>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,50:1E90FF,100:00008B&height=100&section=footer" width="100%"/>
 </div>
 
 

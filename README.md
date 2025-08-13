@@ -12,11 +12,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on React.Js
-
-- 🌱 I’m currently learning Java Spring
-
-- ⚡ Fun fact I have a Dash 😉
+I'm a full stack developer working with JavaScript, TypeScript, and React on the frontend, and Java with Spring Boot on the backend.
+I also develop cross-platform mobile applications using React Native for both iOS and Android.
 
 
 
@@ -45,7 +42,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 

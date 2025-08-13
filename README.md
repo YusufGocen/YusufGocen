@@ -68,7 +68,10 @@ I also develop cross-platform mobile applications using React Native for both iO
 
 
 <div align="center">
-  <h3> Thanks for visiting my profile! </h3>
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+%26+Mobile+Application+Developer;Always+learning+new+technologies!;Thanks+for+visiting+my+profile!" alt="Typing SVG"   />
+  </div>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%"/>
 </div>
 
